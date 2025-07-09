@@ -17,8 +17,7 @@ It is ideal for beginners learning Java, conditional logic, and user interaction
 
 ## 📸 Animation Preview
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2gyNnFqOHV6bnl2bHV5eGx3aG13OXF0cWhxemI5YWVnb2M2d3B2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jpbnoe3UIa8TU8LM13/giphy.gif" width="500"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 ---
 
 ## 🚀 How It Works
