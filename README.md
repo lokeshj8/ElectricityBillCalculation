@@ -30,7 +30,7 @@ The program calculates the bill using the following tariff:
 | 101 - 300       | ₹2.5          |
 | 301 and above   | ₹4.0          |
 | GST             | 18% on total  |
-
+ 
 ---
 
 ## 🛠️ How to Run This Project
